@@ -2,11 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Marakelian.github.io/about/</loc>
-    <lastmod>2021-05-27T14:49:56-04:00</lastmod>
+    <loc>https://Marakelian.github.io/tags/applied-philosophy/</loc>
+    <lastmod>2021-06-01T15:00:00-04:00</lastmod>
   </url><url>
     <loc>https://Marakelian.github.io/</loc>
-    <lastmod>2021-05-20T19:00:00-04:00</lastmod>
+    <lastmod>2021-06-01T15:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://Marakelian.github.io/tags/conversations/</loc>
+    <lastmod>2021-06-01T15:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://Marakelian.github.io/tags/epistemology/</loc>
+    <lastmod>2021-06-01T15:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://Marakelian.github.io/posts/</loc>
+    <lastmod>2021-06-01T15:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://Marakelian.github.io/tags/</loc>
+    <lastmod>2021-06-01T15:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://Marakelian.github.io/posts/epochconvo/</loc>
+    <lastmod>2021-06-01T15:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://Marakelian.github.io/about/</loc>
+    <lastmod>2021-05-27T14:49:56-04:00</lastmod>
   </url><url>
     <loc>https://Marakelian.github.io/posts/austin/</loc>
     <lastmod>2021-05-20T19:00:00-04:00</lastmod>
@@ -17,11 +35,20 @@
     <loc>https://Marakelian.github.io/tags/philosophy-of-law/</loc>
     <lastmod>2021-05-20T19:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://Marakelian.github.io/posts/</loc>
-    <lastmod>2021-05-20T19:00:00-04:00</lastmod>
+    <loc>https://Marakelian.github.io/tags/legal-positivism/</loc>
+    <lastmod>2020-11-11T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://Marakelian.github.io/tags/</loc>
-    <lastmod>2021-05-20T19:00:00-04:00</lastmod>
+    <loc>https://Marakelian.github.io/tags/natural-law-theory/</loc>
+    <lastmod>2020-11-11T19:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://Marakelian.github.io/posts/hd2/</loc>
+    <lastmod>2020-11-11T19:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://Marakelian.github.io/posts/hd1/</loc>
+    <lastmod>2020-10-28T19:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://Marakelian.github.io/posts/naturallaw/</loc>
+    <lastmod>2020-08-21T19:00:00-04:00</lastmod>
   </url><url>
     <loc>https://Marakelian.github.io/categories/</loc>
   </url>
